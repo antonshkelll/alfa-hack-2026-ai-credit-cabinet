@@ -1,3 +1,7 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img src="assets/portfolio-light.svg" width="100%" alt="Умный кредитный кабинет"></picture>
+
+[Профиль](https://github.com/antonshkelll) · [Портфолио](https://antonshkel.ru)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/alfa-dark.svg">
   <img src="docs/assets/alfa-light.svg" width="100%" alt="Умный кредитный кабинет — Vibe Security">
